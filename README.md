@@ -1,2 +1,2 @@
-# Pearson-Browser-Source
+# Pearson-Browser
 Decompiled source code of Pearson Secure Browser
